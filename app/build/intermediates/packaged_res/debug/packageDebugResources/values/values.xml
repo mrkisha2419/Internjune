@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Intern june</string>
+    <string name="greeting">Login Here </string>
+    <style name="Base.Theme.InternJune" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.InternJune" parent="Base.Theme.InternJune"/>
+</resources>
